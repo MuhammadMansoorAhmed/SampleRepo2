@@ -2,3 +2,5 @@ new line
 *this line to be undone
 Revert Changes
 
+new section learning branching and conflict resolving
+
