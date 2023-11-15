@@ -5,3 +5,5 @@ Revert Changes
 new section learning branching and conflict resolving
 
 second feature commit
+
+none fast forward commit
