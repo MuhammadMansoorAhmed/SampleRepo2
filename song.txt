@@ -8,8 +8,8 @@ second feature commit
 
 none fast forward commit
 
-repeat process NFFC
+repeat process NFF
 
 Final Commmit
 
-Comfilict creation
+Resolving Conflict
